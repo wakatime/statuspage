@@ -1,27 +1,19 @@
-owner: koj-co
-repo: upptime
-user-agent: KojBot
+owner: wakatime
+repo: statuspage
+user-agent: alanhamlett
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Website
+    url: https://wakatime.com
+  - name: API
+    url: https://api.wakatime.com/api/v1/meta
 notifications:
   - type: slack
-    channel: C016QTU9S9Y
+    channel: C01CHHXFQ3E
 assignees:
-  - AnandChowdhary
+  - alanhamlett
 status-website:
-  cname: upptime.js.org
-  logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  cname: status.wakatime.com
+  logoUrl: https://avatars0.githubusercontent.com/u/4814844?s=200&v=4
+  name: WakaTime
+  introTitle: "WakaTime Status"
+  introMessage: This page shows **real-time** status of the WakaTime website and api.
