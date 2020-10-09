@@ -1,0 +1,30 @@
+name: Static Site CI
+on:
+  push:
+    branches:
+      - master
+jobs:
+  release:
+    name: Build and deploy site
+    runs-on: ubuntu-18.04
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - name: Install dependencies
+        run: cd site && npm ci
+      - name: Build site
+        run: cd site && npm run export
+      - name: Post process site
+        run: cd site && npm run post-process
+        env:
+          NODE_ENV: "production"
+      - uses: maxheld83/ghpages@v0.2.1
+        name: GitHub Pages Deploy
+        env:
+          BUILD_DIR: "site/__sapper__/export/"
+          GH_PAT: ${{ secrets.GH_PAT }}
