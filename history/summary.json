@@ -1,50 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Website",
+    "url": "https://wakatime.com",
+    "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 79
+    "time": 459
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "API",
+    "url": "https://api.wakatime.com/api/v1/meta",
+    "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 177
-  },
-  {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 491
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 322
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 46
+    "time": 318
   }
 ]
