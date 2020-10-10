@@ -1,6 +1,6 @@
-- url: https://wakatime.com/api/v1/users/current/summaries?start=yesterday&end=today&cache=false&apikey=c09e659f-d3eb-4e50-807a-b479df1d1c06
+- url: $SECRET_SITE
 - status: up
 - code: 200
-- responseTime: 494
-- lastUpdated: 2020-10-10T16:52:16.774Z
+- responseTime: 532
+- lastUpdated: 2020-10-10T23:01:02.418Z
 - startTime: 2020-10-10T16:28:09.105Z
