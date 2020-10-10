@@ -57,14 +57,7 @@
   <div class="container">
     {#if config['status-website'] && config['status-website'].logoUrl}
       <div>
-        <a
-          {#if config['status-website'].backUrl}
-            href={config['status-website'].backUrl}
-          {:else}
-            href="/"
-          {/if}
-          class="logo"
-        >
+        <a href="https://wakatime.com" class="logo">
           <img alt="" src={config['status-website'].logoUrl} />
           <div>{config['status-website'].name}</div>
         </a>
