@@ -57,7 +57,13 @@
   <div class="container">
     {#if config['status-website'] && config['status-website'].logoUrl}
       <div>
-        <a href="/" class="logo">
+        <a
+          {#if config['status-website'].backUrl}
+            href=config['status-website'].backUrl}
+          {:else}
+            href="/"
+          {/if}
+          class="logo">
           <img alt="" src={config['status-website'].logoUrl} />
           <div>{config['status-website'].name}</div>
         </a>
