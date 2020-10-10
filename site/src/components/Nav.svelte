@@ -63,7 +63,8 @@
           {:else}
             href="/"
           {/if}
-          class="logo">
+          class="logo"
+        >
           <img alt="" src={config['status-website'].logoUrl} />
           <div>{config['status-website'].name}</div>
         </a>
