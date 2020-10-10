@@ -59,7 +59,7 @@
       <div>
         <a
           {#if config['status-website'].backUrl}
-            href=config['status-website'].backUrl}
+            href={config['status-website'].backUrl}
           {:else}
             href="/"
           {/if}
