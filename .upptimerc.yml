@@ -6,6 +6,8 @@ sites:
     url: https://wakatime.com
   - name: API
     url: https://api.wakatime.com/api/v1/meta
+  - name: Dashboard
+    url: https://wakatime.com/api/v1/users/current/summaries?start=yesterday&end=today&cache=false&apikey=$WAKATIME_API_KEY
 notifications:
   - type: slack
     channel: C01CHHXFQ3E
