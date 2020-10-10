@@ -14,5 +14,13 @@
     "status": "up",
     "uptime": "100.00",
     "time": 286
+  },
+  {
+    "name": "Dashboard",
+    "url": "https://wakatime.com/api/v1/users/current/summaries?start=yesterday&end=today&cache=false&apikey=$WAKATIME_API_KEY",
+    "slug": "dashboard",
+    "status": "down",
+    "uptime": "-747.46",
+    "time": 70
   }
 ]
