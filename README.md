@@ -8,6 +8,7 @@ _This section is updated automatically when the status of any site changes._
 | --- | ------ | ------- | ------------- | ------ |
 | [Website](https://wakatime.com) | 🟩 Up | [website.yml](https://github.com/wakatime/statuspage/commits/master/history/website.yml) | <img alt="Response time graph" src="./graphs/website.png" height="20"> 408ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fwebsite%2Fuptime.json)
 | [API](https://api.wakatime.com/api/v1/meta) | 🟩 Up | [api.yml](https://github.com/wakatime/statuspage/commits/master/history/api.yml) | <img alt="Response time graph" src="./graphs/api.png" height="20"> 286ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fapi%2Fuptime.json)
+| [Dashboard](https://wakatime.com/api/v1/users/current/summaries?start=yesterday&end=today&cache=false&apikey=$WAKATIME_API_KEY) | 🟥 Down | [dashboard.yml](https://github.com/wakatime/statuspage/commits/master/history/dashboard.yml) | <img alt="Response time graph" src="./graphs/dashboard.png" height="20"> 70ms | ![Uptime -747.46%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fdashboard%2Fuptime.json)
 
 <!--end: status pages-->
 
@@ -21,7 +22,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟩 All systems operational**
+Live status: <!--live status--> **🟨 Partial outage**
 
 ## ⭐ How it works
 
