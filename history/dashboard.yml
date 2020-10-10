@@ -1,0 +1,6 @@
+- url: https://wakatime.com/api/v1/users/current/summaries?start=yesterday&end=today&cache=false&apikey=$WAKATIME_API_KEY
+- status: down
+- code: 401
+- responseTime: 70
+- lastUpdated: 2020-10-10T16:28:09.321Z
+- startTime: 2020-10-10T16:28:09.105Z
