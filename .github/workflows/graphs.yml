@@ -25,7 +25,7 @@ jobs:
         run: npm run graphs
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          SECRET_SITE: ${{ secrets.SECRET_SITE }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       - name: Commit new data
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         with:

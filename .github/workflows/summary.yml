@@ -22,4 +22,4 @@ jobs:
         run: npm run readme
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          SECRET_SITE: ${{ secrets.SECRET_SITE }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
