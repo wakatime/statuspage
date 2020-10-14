@@ -16,7 +16,9 @@ assignees:
 status-website:
   cname: status.wakatime.com
   logoUrl: https://avatars0.githubusercontent.com/u/4814844?s=200&v=4
+  faviconSvg: https://wakatime.com/safari-pinned-tab.svg
+  favicon: https://wakatime.com/favicon-32x32.png
   name: WakaTime
-  backUrl: https://wakatime.com
-  introTitle: "WakaTime Status"
-  introMessage: This page shows **real-time** status of the WakaTime website and api.
+  logoHref: https://wakatime.com
+  introTitle: WakaTime Status
+  introMessage: This page shows **real-time** status of the WakaTime website and API.
