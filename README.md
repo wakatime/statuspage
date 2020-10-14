@@ -6,9 +6,9 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Website](https://wakatime.com) | 🟩 Up | [website.yml](https://github.com/wakatime/statuspage/commits/master/history/website.yml) | <img alt="Response time graph" src="./graphs/website.png" height="20"> 420ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fwebsite%2Fuptime.json)
-| [API](https://api.wakatime.com/api/v1/meta) | 🟩 Up | [api.yml](https://github.com/wakatime/statuspage/commits/master/history/api.yml) | <img alt="Response time graph" src="./graphs/api.png" height="20"> 286ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fapi%2Fuptime.json)
-| Dashboard | 🟩 Up | [dashboard.yml](https://github.com/wakatime/statuspage/commits/master/history/dashboard.yml) | <img alt="Response time graph" src="./graphs/dashboard.png" height="20"> 389ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fdashboard%2Fuptime.json)
+| [Website](https://wakatime.com) | 🟩 Up | [website.yml](https://github.com/wakatime/statuspage/commits/master/history/website.yml) | <img alt="Response time graph" src="./graphs/website.png" height="20"> 403ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fwebsite%2Fuptime.json)
+| [API](https://api.wakatime.com/api/v1/meta) | 🟩 Up | [api.yml](https://github.com/wakatime/statuspage/commits/master/history/api.yml) | <img alt="Response time graph" src="./graphs/api.png" height="20"> 273ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fapi%2Fuptime.json)
+| Dashboard | 🟩 Up | [dashboard.yml](https://github.com/wakatime/statuspage/commits/master/history/dashboard.yml) | <img alt="Response time graph" src="./graphs/dashboard.png" height="20"> 381ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwakatime%2Fstatuspage%2Fmaster%2Fapi%2Fdashboard%2Fuptime.json)
 
 <!--end: status pages-->
 
