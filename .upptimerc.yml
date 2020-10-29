@@ -22,3 +22,11 @@ status-website:
   logoHref: https://wakatime.com
   introTitle: WakaTime Status
   introMessage: This page shows **real-time** status of the WakaTime website and API.
+  navbar:
+    - title: Status
+      href: /
+    - title: WakaTime Home
+      href: https://wakatime.com
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
