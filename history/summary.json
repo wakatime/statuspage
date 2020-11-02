@@ -11,9 +11,9 @@
     "name": "API",
     "url": "https://api.wakatime.com/api/v1/meta",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 300
+    "time": 290
   },
   {
     "name": "Dashboard",
