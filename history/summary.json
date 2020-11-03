@@ -3,9 +3,9 @@
     "name": "Website",
     "url": "https://wakatime.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 456
+    "time": 441
   },
   {
     "name": "API",
@@ -13,14 +13,14 @@
     "slug": "api",
     "status": "down",
     "uptime": "100.00",
-    "time": 280
+    "time": 271
   },
   {
     "name": "Dashboard",
     "url": "$SECRET_SITE",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 390
+    "time": 376
   }
 ]
