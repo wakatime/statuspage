@@ -13,7 +13,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 273
+    "time": 275
   },
   {
     "name": "Dashboard",
@@ -21,6 +21,6 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 380
+    "time": 401
   }
 ]
