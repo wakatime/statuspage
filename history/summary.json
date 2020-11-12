@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 446
+    "time": 448
   },
   {
     "name": "API",
@@ -13,7 +13,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00",
-    "time": 285
+    "time": 286
   },
   {
     "name": "Dashboard",
@@ -21,6 +21,6 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 423
+    "time": 421
   }
 ]
