@@ -1,7 +1,7 @@
 - url: https://wakatime.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 372
-- lastUpdated: 2020-11-19T06:50:49.383Z
+- responseTime: 469
+- lastUpdated: 2020-11-19T06:59:56.239Z
 - startTime: 2020-10-09T20:07:06.438Z
 - generator: Upptime <https://github.com/upptime/upptime>
