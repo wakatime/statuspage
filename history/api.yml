@@ -1,7 +1,7 @@
-- url: https://api.wakatime.com/api/v1/meta
-- status: up
-- code: 200
-- responseTime: 309
-- lastUpdated: 2020-11-21T23:00:47.801Z
-- startTime: 2020-10-09T20:07:08.305Z
-- generator: Upptime <https://github.com/upptime/upptime>
+url: https://api.wakatime.com/api/v1/meta  
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2020-11-22T23:00:34.253Z
+startTime: Fri Oct 09 2020 20:07:08 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
