@@ -4,23 +4,23 @@
     "url": "https://wakatime.com",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 462
+    "uptime": "100.00%",
+    "time": 464
   },
   {
     "name": "API",
     "url": "https://api.wakatime.com/api/v1/meta",
     "slug": "api",
     "status": "up",
-    "uptime": "100.00",
-    "time": 302
+    "uptime": "100.00%",
+    "time": 303
   },
   {
     "name": "Dashboard",
     "url": "$SECRET_SITE",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "100.00",
-    "time": 413
+    "uptime": "100.00%",
+    "time": 412
   }
 ]
