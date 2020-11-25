@@ -5,16 +5,14 @@
 # Instead, change your .upptimerc.yml configuration: https://upptime.js.org/docs
 # Or propose changes to this template: https://github.com/upptime/upptime
 
-name: Summary CI
+name: Updates CI
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  repository_dispatch:
-    types: [summary]
+  schedule:		
+     - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
   release:
-    name: Generate README
+    name: Deploy updates
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout
@@ -22,17 +20,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
-      - name: Update summary in README
-        uses: upptime/uptime-monitor@v1.17.2
-        with:
-          command: "readme"
+      - name: Update code
+        uses: upptime/updates@master
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-      - name: Run readme-repos-list
-        uses: koj-co/readme-repos-list@master
-        with:
-          token: ${{ secrets.GH_PAT }}
-          query: "topic:upptime"
-          size: 30
-          max: 1000
-          one-per-owner: true
