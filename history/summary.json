@@ -5,7 +5,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 472
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 478,
+    "timeDay": 335,
+    "timeWeek": 546,
+    "timeMonth": 494,
+    "timeYear": 478
   },
   {
     "name": "API",
@@ -13,7 +21,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 314
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 328,
+    "timeDay": 261,
+    "timeWeek": 404,
+    "timeMonth": 350,
+    "timeYear": 328
   },
   {
     "name": "Dashboard",
@@ -21,6 +37,14 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 406
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 412,
+    "timeDay": 393,
+    "timeWeek": 385,
+    "timeMonth": 429,
+    "timeYear": 412
   }
 ]
