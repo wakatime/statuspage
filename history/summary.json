@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 580,
-    "timeWeek": 548,
-    "timeMonth": 504,
-    "timeYear": 480
+    "time": 481,
+    "timeDay": 596,
+    "timeWeek": 545,
+    "timeMonth": 507,
+    "timeYear": 481
   },
   {
     "name": "API",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 469,
-    "timeWeek": 410,
-    "timeMonth": 358,
-    "timeYear": 331
+    "time": 334,
+    "timeDay": 533,
+    "timeWeek": 412,
+    "timeMonth": 364,
+    "timeYear": 334
   },
   {
     "name": "Dashboard",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 462,
-    "timeWeek": 394,
-    "timeMonth": 407,
-    "timeYear": 413
+    "time": 414,
+    "timeDay": 440,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 414
   }
 ]
