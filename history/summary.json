@@ -2,6 +2,7 @@
   {
     "name": "Website",
     "url": "https://wakatime.com",
+    "icon": "https://favicons.githubusercontent.com/wakatime.com",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 470,
-    "timeWeek": 535,
-    "timeMonth": 507,
-    "timeYear": 481
+    "time": 482,
+    "timeDay": 510,
+    "timeWeek": 525,
+    "timeMonth": 509,
+    "timeYear": 482,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
     "url": "https://api.wakatime.com/api/v1/meta",
+    "icon": "https://favicons.githubusercontent.com/api.wakatime.com",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 462,
-    "timeWeek": 408,
-    "timeMonth": 367,
-    "timeYear": 335
+    "time": 336,
+    "timeDay": 391,
+    "timeWeek": 407,
+    "timeMonth": 369,
+    "timeYear": 336,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 491,
-    "timeWeek": 426,
-    "timeMonth": 405,
-    "timeYear": 415
+    "time": 414,
+    "timeDay": 373,
+    "timeWeek": 425,
+    "timeMonth": 404,
+    "timeYear": 414,
+    "dailyMinutesDown": {}
   }
 ]
