@@ -4,19 +4,19 @@
     "url": "https://wakatime.com",
     "icon": "https://favicons.githubusercontent.com/wakatime.com",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 8193,
-    "timeWeek": 2468,
-    "timeMonth": 958,
-    "timeYear": 695,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 846,
+    "timeDay": 9483,
+    "timeWeek": 3534,
+    "timeMonth": 1267,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2020-12-11": 0
+      "2020-12-11": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 360,
-    "timeWeek": 406,
-    "timeMonth": 387,
-    "timeYear": 412,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 414,
+    "timeDay": 436,
+    "timeWeek": 419,
+    "timeMonth": 391,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2020-12-11": 0
+      "2020-12-11": 9
     }
   }
 ]
