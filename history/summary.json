@@ -4,18 +4,20 @@
     "url": "https://wakatime.com",
     "icon": "https://favicons.githubusercontent.com/wakatime.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 551,
-    "timeWeek": 558,
-    "timeMonth": 520,
-    "timeYear": 487,
-    "dailyMinutesDown": {}
+    "time": 695,
+    "timeDay": 8193,
+    "timeWeek": 2468,
+    "timeMonth": 958,
+    "timeYear": 695,
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "API",
@@ -40,9 +42,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 406,
     "timeMonth": 387,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   }
 ]
