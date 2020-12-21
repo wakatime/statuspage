@@ -42,18 +42,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 416,
-    "timeDay": 466,
-    "timeWeek": 414,
-    "timeMonth": 406,
-    "timeYear": 416,
+    "time": 436,
+    "timeDay": 1282,
+    "timeWeek": 654,
+    "timeMonth": 460,
+    "timeYear": 436,
     "dailyMinutesDown": {
+      "2020-12-21": 0,
       "2020-12-11": 18
     }
   }
